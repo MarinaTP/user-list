@@ -1,0 +1,9 @@
+.card-text{
+    font-size: 0.8em;
+    }
+    .name{
+        position: absolute;
+        bottom: 25%;
+        color: white;
+        font-weight: 600;
+    }
